@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "ADTCommandTools": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ADT_SERVICE_URL": "https://wpc2022-adt.api.weu.digitaltwins.azure.net",
+        "AZURE_CLIENT_ID": "495f5a83-50e9-4ee2-8da1-5817d42f865a",
+        "AZURE_CLIENT_SECRET": "wRe8Q~DPpTLiN66nCED2JBlVS5qQ.HMMeZLhMbhh",
+        "AZURE_TENANT_ID": "aba516a4-9ee7-4eb9-93ba-3a243c7f08a2",
+        "AZURE_SUBSCRIPTION_ID": "e73a81d8-e5be-4284-b41b-9ae8d172847e"
+      }
+    }
+  }
+}
